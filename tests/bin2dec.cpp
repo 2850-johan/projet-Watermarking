@@ -37,10 +37,10 @@ void binaryToDecimal(int array_binary[][8], int nbre_lignes)
      // Définir un tableau binaire à convertir en décimal
     int nbre_lignes = 4;
     int array_binary[4][8] = {
-        {0, 0, 0, 0, 1, 1, 0, 1}, // 13 en décimal
-        {0, 0, 1, 0, 1, 1, 0, 1}, // 45 en décimal
-        {0, 0, 0, 0, 0, 1, 1, 1}, // 7 en décimal
-        {1, 0, 0, 0, 0, 0, 0, 0}  // 128 en décimal
+        {0, 0, 0, 0, 1, 1, 0, 1}, // 13 
+        {0, 0, 1, 0, 1, 1, 0, 1}, // 45 
+        {0, 0, 0, 0, 0, 1, 1, 1}, // 7 
+        {1, 0, 0, 0, 0, 0, 0, 0}  // 128 
     };
 
     // Appeler la fonction pour convertir en décimal
