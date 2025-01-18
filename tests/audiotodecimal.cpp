@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>  // Inclusion de la bibliothèque OpenCV
+// #include <opencv2/opencv.hpp>  // Inclusion de la bibliothèque OpenCV
 #include <iostream>            // Inclusion de la bibliothèque pour les entrées/sorties standard
 #include <vector>    
 using namespace std ;           // Pour utiliser std::vector
