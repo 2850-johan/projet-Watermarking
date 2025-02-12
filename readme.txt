@@ -36,14 +36,12 @@ ls
 
 Vous devriez voir les dossiers suivants :
 Images/ : Contient les fichiers d'exemple.
-Sources/ : Contient les fichiers sources du projet.
 Sources/ : Contient les fichiers de test.
-Include/ : Toutes les fonctions principales
-makefile : Permettant d'executer le programme
+Include/ : Toutes les entêtes de fonctions principales du projet.
+makefile : Permettant d'exécuter le programme
 3️⃣ Modifier les chemins d'accès dans le code si nécessaire (/home/user/...) pour s'assurer du bon fonctionnement.
 4️⃣ Compiler et exécuter le programme :
-g++ main.cpp -o main
-./main
+make
 
 📝 Remarque
 Si vous rencontrez des erreurs lors de l'exécution, vérifiez que toutes les bibliothèques et dépendances sont bien installées.
