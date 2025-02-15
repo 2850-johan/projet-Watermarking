@@ -35,8 +35,8 @@ cd projet-Watermarking
 ls
 
 Vous devriez voir les dossiers suivants :
-Images/ : Contient les fichiers d'exemple.
-Sources/ : Contient les fichiers de test.
+Biblio/ : Contient les fichiers d'exemple.
+Src/ : Contient les fichiers de test.
 Include/ : Toutes les entêtes de fonctions principales du projet.
 makefile : Permettant d'exécuter le programme
 3️⃣ Modifier les chemins d'accès dans le code si nécessaire (/home/user/...) pour s'assurer du bon fonctionnement.

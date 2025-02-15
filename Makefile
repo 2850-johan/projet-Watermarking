@@ -3,10 +3,10 @@ CXX = g++
 CXXFLAGS = -Iinclude -Wall -Wextra -std=c++17
 
 # Répertoires
-SRC_DIR = source
+SRC_DIR = src
 BUILD_DIR = build
 BIN_DIR = bin
-BIBLIO_DIR = Images
+BIBLIO_DIR = Biblio
 
 # Fichiers sources et objets
 SRCS = $(wildcard $(SRC_DIR)/*.cpp)
